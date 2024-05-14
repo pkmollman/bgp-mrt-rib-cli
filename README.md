@@ -1,6 +1,6 @@
 # BGP MRT Export Parse Tool
 
-This is a tool to read BGP MRT exports and display the data in a human readable format. I'm Building it as an exercise to learn more about BGP and RFC specifications.
+This is a tool to read BGP MRT exports and display the data in a human readable format. I'm building it as an exercise to learn more about BGP and RFC specifications.
 
 ## Useful resources
 
